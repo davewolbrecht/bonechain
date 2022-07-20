@@ -1,0 +1,19 @@
+{
+  "name": "bonechain",
+  "version": "1.0.0",
+  "description": "A basic blockchain for study",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davewolbrecht/bonechain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davewolbrecht/bonechain/issues"
+  },
+  "homepage": "https://github.com/davewolbrecht/bonechain#readme"
+}
